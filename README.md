@@ -22,3 +22,5 @@ I also plotted the start point (0,0) with a green marker and the ending point (x
 
 This was just a fun little project and the coding was straightforward
 I would like to make variations of this (average # n steps to return to the origin, % of points "walked-through" more than once, etc.)
+
+I would recommend using n <= 1000 since anything higher than that will computationally take a bit. In the code for n <= 150 it plots the label of each point on the random walk
