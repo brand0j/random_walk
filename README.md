@@ -1,4 +1,4 @@
-# random_walk_2-D
+# random_walk
 
 You can find all relevant information here https://en.wikipedia.org/wiki/Random_walk
 
