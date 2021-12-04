@@ -2,6 +2,9 @@
 
 You can find all relevant information here https://en.wikipedia.org/wiki/Random_walk
 
+
+2-D:
+
 I chose to generate random integers from [1,4] and use that random number in: theta = (random.randint(1,5) * pi/2).
 This was to ensure that we were only moving solely in the x-direction or the y-direction.
 
