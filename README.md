@@ -18,7 +18,7 @@ y = 0 when x = 1 , -1 ; theta = ( 2pi , pi )
        
 As for plotting decisions, it looks much better without a grid layout or spines on the top & right-side.
 Clever alpha, linewidth, & markersize values were chosen so you can visibly see areas that were "walked" more than once.
-I also plotted the start point (0,0) with a green marker and the ending point (x(n),y(n)) with a red marker to help visualize things
+I also plotted the start point (0,0) and the ending point (x(n),y(n)) to help visualize things
 
 
 I would recommend using n <= 1000 since anything higher than that will computationally take a bit. In the code for n <= 150 it plots the label of each point on the random walk
